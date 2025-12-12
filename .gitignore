@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+checkpoint/
+checkpoints/
+wandb/
+runs/
+
+# Data files (if large)
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
+.huggingface/
+
+# Large datasets (uncomment if you don't want to push datasets)
+# examples/datasets/
+# data/
+
+# Temporary files
+*.tmp
+*.temp

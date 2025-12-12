@@ -1,4 +1,4 @@
-# BIPOST
+# Bilevel online self-refining generation framework
 
 A computationally efficient framework for Bilevel Data Selection and online self-refining generation with BlueOrca and RedOrca.
 
